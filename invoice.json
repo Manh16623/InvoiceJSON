@@ -1,0 +1,1403 @@
+{
+  "invoices": [
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 3",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 91543",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH P.A VIỆT NAM",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "91543",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Trần Thị B",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "123 Đường ABC",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "997.000 ₫",
+              "Chiết khấu": "1",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "997.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "41.500 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "41.500 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "92000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 5",
+      "Ki_hieu": ": C23TPA",
+      "So": ": 23287",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH P.A VIỆT NAM",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "23287",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "983.000 ₫",
+              "Chiết khấu": "3",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "983.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "46.300 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "46.300 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "83000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 3",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 85007",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY PHẦN MỀM ABC",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "85007",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Lê Minh C",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "789 Đường GHI",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "748.000 ₫",
+              "Chiết khấu": "3",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "748.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "87.300 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "87.300 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "53000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 3",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 52105",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "52105",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Trần Thị B",
+      "Mã số thuế": "1357924680",
+      "Địa chỉ": "123 Đường ABC",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "241.000 ₫",
+              "Chiết khấu": "5",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "241.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "70.500 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "70.500 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "53000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 1",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 38497",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "TẬP ĐOÀN FPT VIỆT NAM",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "38497",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Lê Minh C",
+      "Mã số thuế": "1357924680",
+      "Địa chỉ": "123 Đường ABC",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "495.000 ₫",
+              "Chiết khấu": "5",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "495.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "29.700 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "29.700 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "87000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": K67LMN",
+      "So": ": 34224",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "TẬP ĐOÀN VIETTEL",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "34224",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Lê Minh C",
+      "Mã số thuế": "1234567890",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "526.000 ₫",
+              "Chiết khấu": "5",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "526.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "11.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "11.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "28000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 48016",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY PHẦN MỀM ABC",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "48016",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Trần Thị B",
+      "Mã số thuế": "1234567890",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "874.000 ₫",
+              "Chiết khấu": "5",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "874.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "28.700 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "28.700 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "53000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 5",
+      "Ki_hieu": ": K67LMN",
+      "So": ": 87076",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "TẬP ĐOÀN FPT VIỆT NAM",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "87076",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "1234567890",
+      "Địa chỉ": "123 Đường ABC",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "744.000 ₫",
+              "Chiết khấu": "1",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "744.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "43.600 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "43.600 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "54000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 1",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 78736",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "78736",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Trần Thị B",
+      "Mã số thuế": "1357924680",
+      "Địa chỉ": "123 Đường ABC",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "214.000 ₫",
+              "Chiết khấu": "3",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "214.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "18.300 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "18.300 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "50000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    },{
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Tiền mặt/Chuyển khoản",
+      "Mẫu_số": " 2",
+      "Ki_hieu": ": D45UVB",
+      "So": ": 71847",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày": "01",
+      "Tháng": "02",
+      "Năm": "2025",
+      "MCCQT": "007B9D81AB83154DCF9B848736FBE6E53D",
+      "Tên người bán": "CÔNG TY TNHH HPVD",
+      "Mã Số thuế": "0302431595",
+      "Địa Chỉ": "833 Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "Điện thoại": "02822317777",
+      "Số tài khoản": "71847",
+      "Tên người mua": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua": "Nguyễn Văn A",
+      "Mã số thuế": "0987654321",
+      "Địa chỉ": "456 Đường DEF",
+      "Hình thức thanh toán": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ": "VND",
+      "Số bảng kê": "VND",
+      "Ngày bảng kê": "",
+      "tables_1": [
+        {
+          "row": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "PHÍ DUY TRÌ TÊN MIỀN",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "777.000 ₫",
+              "Chiết khấu": "4",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "777.000 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "50.400 ₫",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "50.400 ₫"
+            }
+          ]
+        },
+        {
+          "row": [
+            [
+              "8%",
+              "292.000",
+              "23.360"
+            ]
+          ]
+        },
+        {
+          "row": [
+            [
+              "Tổng giảm trừ không chịu thuế",
+              "94000"
+            ]
+          ]
+        }
+      ]
+    }
+
+  ]
+}
